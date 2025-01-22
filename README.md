@@ -28,7 +28,7 @@ Retro Jump 02.wav by MATRIXXX_ -> https://freesound.org/people/MATRIXXX_/sounds/
 ## 💬 Feedback  
 I'd love to hear your thoughts! Feel free to share feedback and suggestions.  
 
-👤 *By Mathis Huard*  
-My LinkedIn account is right here -> https://www.linkedin.com/in/mathis-huard/
+👨‍💻 *By Mathis Huard*  
+👤 *My LinkedIn account is right here ->* https://www.linkedin.com/in/mathis-huard/
 
 Enjoy the game and thanks for checking it out! 🎮
