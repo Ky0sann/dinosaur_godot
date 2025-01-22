@@ -8,7 +8,8 @@ All the Godot files are available in the folder "godotproject" !
 
 A simple game like the google dinosaur game made with Godot 4.3 and GDScript 
 
-**Special thanks to the YouTube channel "Coding With Russ" for the tutorial -> https://www.youtube.com/watch?v=nKBhz6oJYsc 
+## 🕹️ Special thanks 
+**Special thanks to the YouTube channel "Coding With Russ" for the tutorial ->** https://www.youtube.com/watch?v=nKBhz6oJYsc 
 
 I've made a few improvements to my version compared to the tutorial version
 
