@@ -1,14 +1,18 @@
-# Dinosaur Game made with Godot
+# 🦖 Dinosaur Game - Made with Godot 4.3
+
+A fun and simple clone of the Google Chrome Dinosaur Game, developed using **Godot 4.3** and **GDScript**. 
+
+## 🚀 How to Play 
 To run the game, simply execute "dinosaurgame.exe" ! 
 All the Godot files are available in the folder "godotproject" !
 
 A simple game like the google dinosaur game made with Godot 4.3 and GDScript 
 
-Special thanks to the YouTube channel "Coding With Russ" for the tutorial -> https://www.youtube.com/watch?v=nKBhz6oJYsc 
+**Special thanks to the YouTube channel "Coding With Russ" for the tutorial -> https://www.youtube.com/watch?v=nKBhz6oJYsc 
 
 I've made a few improvements to my version compared to the tutorial version
 
-# All assets used for the game 
+## 📖 All assets used for the game 
 
 Jungle Asset Pack by Jesse Munguia (https://twitter.com/Jsf23Art) -> https://jesse-m.itch.io/jungle-pack
 
@@ -20,5 +24,10 @@ Retro Gaming Font by Daymarius -> https://www.dafont.com/retro-gaming.font
 
 Retro Jump 02.wav by MATRIXXX_ -> https://freesound.org/people/MATRIXXX_/sounds/458641/ 
 
-# Don't hesitate to give feedbacks !
-By Mathis Huard, my LinkedIn account is right here -> https://www.linkedin.com/in/mathis-huard/
+## 💬 Feedback  
+I'd love to hear your thoughts! Feel free to share feedback and suggestions.  
+
+👤 *By Mathis Huard*  
+My LinkedIn account is right here -> https://www.linkedin.com/in/mathis-huard/
+
+Enjoy the game and thanks for checking it out! 🎮
