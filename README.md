@@ -31,7 +31,7 @@ A simple game like the google dinosaur game made with Godot 4.3 and GDScript
 
 I've made a few improvements to my version compared to the tutorial version
 
-## 📖 All assets used for the game 
+## 📖 Assets used for the game 
 
 Jungle Asset Pack by Jesse Munguia (https://twitter.com/Jsf23Art) -> https://jesse-m.itch.io/jungle-pack
 
