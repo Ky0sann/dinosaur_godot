@@ -3,8 +3,8 @@
 A fun and simple clone of the Google Chrome Dinosaur Game, developed using **Godot 4.3** and **GDScript**. 
 
 ## 🚀 How to Play 
-To run the game, simply execute "dinosaurgame.exe" ! 
-All the Godot files are available in the folder "godotproject" !
+To run the game, simply execute **dinosaurgame.exe** ! 
+All the Godot files are available in the folder **godotproject** !
 
 ## ⚙️ Game features 
 **🦕 Playable Dinosaur Character :**  
@@ -20,8 +20,10 @@ All the Godot files are available in the folder "godotproject" !
 
 **⚠️ Collision Detection :**  
   - An **hit detection 💥** to determine when the dinosaur collides with obstacles.
+  - A **special animation 💀** when the character is hit by an obstacle
 
 **🔄 Game Over & Restart System :**  
+
   - Intuitive **game over mechanics ❌** with the option to **restart 🔁** and beat your previous high score.
 
 ## 🕹️ Special thanks 
