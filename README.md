@@ -22,7 +22,7 @@ All the Godot files are available in the folder **godotproject** !
 **🏆 Score Tracking :**  
   - An **HUD 📊** displaying the current **score 🔢** and the all-time **high score ⭐** to keep track of your progress.
 
-**🔊 Sound design :** 
+**🎧 Sound design :** 
   - Sound when the dinosaur **jumps 🦘**
   - Sound when the player has **lost ❌**
 
