@@ -6,9 +6,9 @@ A fun and simple clone of the Google Chrome Dinosaur Game, developed using **God
 To run the game, simply execute **dinosaurgame.exe** ! 
 All the Godot files are available in the folder **godotproject** !
 
-**Press Space to jump**
+**Press Space to jump** 🦘
 
-**Press Down Arrow to crouch**
+**Press Down Arrow to crouch** ⬇
 
 ## ⚙️ Game features 
 **🦕 Playable Dinosaur Character :**  
