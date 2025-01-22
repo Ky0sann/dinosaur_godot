@@ -8,6 +8,24 @@ All the Godot files are available in the folder "godotproject" !
 
 A simple game like the google dinosaur game made with Godot 4.3 and GDScript 
 
+## ⚙️ Game features 
+**🦕 Playable Dinosaur Character :**  
+  - Fully animated with smooth **running 🏃‍♂️**, **jumping 🦘**, and **crouching 🛑** actions to dodge obstacles.  
+  
+- **🌄 Dynamic Environment:**  
+  - Continuously scrolling **background 🌅** and **ground 🌿**.
+  - A variety of obstacles, both static and dynamic (like **birds 🐦** flying at different heights).
+  - **Randomized obstacle spawning 🎲** based on the player's score to increase challenge over time. 
+
+- **🏆 Score Tracking:**  
+  - An **HUD 📊** displaying the current **score 🔢** and the all-time **high score ⭐** to keep track of your progress.  
+
+- **⚠️ Collision Detection:**  
+  - An **hit detection 💥** to determine when the dinosaur collides with obstacles.
+
+- **🔄 Game Over & Restart System:**  
+  - Intuitive **game over mechanics ❌** with the option to **restart 🔁** and beat your previous high score.
+
 ## 🕹️ Special thanks 
 **Special thanks to the YouTube channel "Coding With Russ" for the tutorial ->** https://www.youtube.com/watch?v=nKBhz6oJYsc 
 
