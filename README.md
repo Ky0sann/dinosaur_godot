@@ -43,6 +43,8 @@ Retro Gaming Font by Daymarius -> https://www.dafont.com/retro-gaming.font
 
 Retro Jump 02.wav by MATRIXXX_ -> https://freesound.org/people/MATRIXXX_/sounds/458641/ 
 
+Game Over High by MT4000 -> https://freesound.org/people/MT4000/sounds/664607/
+
 ## 💬 Feedback  
 I'd love to hear your thoughts! Feel free to share feedback and suggestions.  
 
