@@ -59,8 +59,8 @@ Enjoy the game and thanks for checking it out! 🎮
 
 ## License & Credits
 
-You are free to reuse my work without providing credit to me. However, if you choose to use any of the assets included in this project, **you must credit their respective creators.**  
+You are free to reuse my work without providing credit to me. However, if you choose to use any of the assets included in this project, **you MUST credit their respective creators.**  
 
-And, please ensure to **credit 'Coding With Russ'** as a courtesy for his valuable guidance.  
+And, please ensure to **CREDIT 'Coding With Russ'** as a courtesy for his valuable guidance.  
 
 Thank you for respecting the work of others !
