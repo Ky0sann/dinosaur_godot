@@ -154,5 +154,6 @@ func game_over():
 	get_tree().paused = true # Pause the game
 	game_running = false # Game is not running
 	$GameOver.show() # Display the game over screen
+	$GameOverSound.play() # Play a game over sound
 	$Dino.get_node("AnimatedSprite2D").play("death") # Play the dino's death animation
 	
