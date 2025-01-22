@@ -16,7 +16,11 @@ All the Godot files are available in the folder **godotproject** !
   - **Randomized obstacle spawning 🎲** based on the player's score to increase challenge over time. 
 
 **🏆 Score Tracking :**  
-  - An **HUD 📊** displaying the current **score 🔢** and the all-time **high score ⭐** to keep track of your progress.  
+  - An **HUD 📊** displaying the current **score 🔢** and the all-time **high score ⭐** to keep track of your progress.
+
+**🔊 Sound design :** 
+  - Sound when the dinosaur **jumps 🦘**
+  - Sound when the player has **lost ❌**
 
 **⚠️ Collision Detection :**  
   - An **hit detection 💥** to determine when the dinosaur collides with obstacles.
