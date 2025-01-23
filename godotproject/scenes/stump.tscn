@@ -11,4 +11,4 @@ texture = ExtResource("1_gavib")
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
 scale = Vector2(4, 4)
-polygon = PackedVector2Array(13, -14.5, 7.25, -14.25, -0.75, -4, -5.5, -4.5, -10.25, -7.25, -13.5, 0.25, -17.5, 6.25, -20.5, 14, 22.75, 14.25, 15.25, 1.25, 13, -5.25)
+polygon = PackedVector2Array(13, -14.5, 7.25, -14.25, -0.75, -4, -5.5, -4.5, -10.25, -7.25, -13.5, 0.25, -15.25, 6, -20.5, 14, 22.75, 14.25, 15.25, 1.25, 13, -5.25)
