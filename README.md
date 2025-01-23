@@ -1,7 +1,5 @@
 # 🦖 Dinosaur Game - Made with Godot 4.3
 
-**Improvements to come: gauging the jump with the space bar**
-
 ![Dinosaur Game](demo_dinosaurgame.png)
 
 A fun and simple clone of the Google Chrome Dinosaur Game, developed using **Godot 4.3** and **GDScript**. 
@@ -16,7 +14,8 @@ All the Godot files are available in the folder **godotproject** !
 
 ## ⚙️ Game features 
 **🦕 Playable Dinosaur Character :**  
-  - Fully animated with smooth **running 🏃‍♂️**, **jumping 🦘**, and **crouching 🛑** actions to dodge obstacles.  
+  - Fully animated with smooth **running 🏃‍♂️**, **jumping 🦘**, and **crouching 🛑** actions to dodge obstacles.
+  - You can **gauge your jump** by the time you hold down the space key. 
   
 **🌄 Dynamic Environment :**  
   - Continuously scrolling **background 🌅** and **ground 🌿**.
