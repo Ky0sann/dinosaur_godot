@@ -1,5 +1,7 @@
 # 🦖 Dinosaur Game - Made with Godot 4.3
 
+**Improvements to come: gauging the jump with the space bar**
+
 ![Dinosaur Game](demo_dinosaurgame.png)
 
 A fun and simple clone of the Google Chrome Dinosaur Game, developed using **Godot 4.3** and **GDScript**. 
